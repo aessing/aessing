@@ -9,11 +9,13 @@ In my role as Cloud Solution Architect, I advise customers in topics all around 
 ## 🌍 Find me on the web
 If you have a question, or you just want to contact me, you can find and follow me on:
 
-[<img alt="Link to to the LinkedIn profile of Andre" src="https://img.shields.io/static/v1?label=Website&message=Visit%20me&labelColor=0078D7&logoColor=ffffff&style=for-the-badge&logo=microsoft-edge" />](https://www.andre-essing.de)
+[<img alt="Link to Andres website" src="https://img.shields.io/static/v1?label=My%20website&message=Visit%20me&labelColor=56B7E6&logoColor=ffffff&style=for-the-badge&logo=microsoft-edge" />](https://www.andre-essing.de)
+[<img alt="Link to Andres employer" src="https://img.shields.io/static/v1?label=Microsoft&message=Visit%20us&labelColor=666666&logoColor=ffffff&style=for-the-badge&logo=microsoft" />](https://www.microsoft.com/)
+
 [<img alt="Link to to the GitHub profile of Andre" src="https://img.shields.io/static/v1?label=GitHub&message=Follow%20me&labelColor=181717&logoColor=ffffff&style=for-the-badge&logo=GitHub" />](https://github.com/aessing)
 [<img alt="Link to to the LinkedIn profile of Andre" src="https://img.shields.io/static/v1?label=LinkedIn&message=Follow%20me&labelColor=0077B5&logoColor=ffffff&style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/aessing/)
 [<img alt="Link to to the Twitter profile of Andre" src="https://img.shields.io/static/v1?label=Twitter&message=Follow%20me&labelColor=1DA1F2&logoColor=ffffff&style=for-the-badge&logo=twitter" />](https://twitter.com/aessing)
-<br />
+
 
 ## 📈 Some Stats
 ![](https://github-readme-stats.andre-essing.de/api?username=aessing&count_private=true&show_icons=true&include_all_commits=true&icon_color=56B7E6&title_color=56B7E6&text_color=000000&hide_title=true&hide_border=true)
