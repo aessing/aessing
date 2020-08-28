@@ -1,6 +1,6 @@
 # :detective: Security Policy
 
-I take the security of my software and services seriously, which includes all my repositories.
+I take the security of my software and services serious, which includes all of my repositories.
 
 If you believe you have found a security vulnerability in any of my repositories, please report it as described below.
 
@@ -8,7 +8,7 @@ If you believe you have found a security vulnerability in any of my repositories
 
 __Please do not report security vulnerabilities through public GitHub issues.__
 
-Instead, please report them directly to me via mail at [codesec@essing.org](mailto:codesec@essing.org).
+Instead, please report them directly via mail to me [codesec@essing.org](mailto:codesec@essing.org).
 
 You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure I received your original message.
 
