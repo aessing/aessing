@@ -6,7 +6,11 @@ Data, Cloud, [Azure](https://azure.microsoft.com/) & [Azure Cosmos DB](https://a
 
 ## :superhero_man: About Me
 
-In my role as Cloud Solution Architect, I advise customers in topics all around Microsofts Data Platform. Since version 7.0 I am gathering experience with the SQL Server product family, where I had a focus on infrastructure topics, mission-critical systems and security. Today I concentrate on working with data in the cloud, like Modern Data Warehouse architectures, Artificial Intelligence and new scalable database systems like Azure Cosmos DB.
+In my role as Cloud Solution Architect, I advise customers in topics all around the Microsoft Data Platform.
+
+Since version 7.0 I am gathering experience with the SQL Server product family, where I had a focus on infrastructure topics, mission-critical systems and security. Today I concentrate on working with data in the cloud, like Modern Data Warehouse architectures and Azure Synapse Analytics, Artificial Intelligence and new scalable database systems like Azure Cosmos DB.
+
+In my spare time I am speaking at user groups and at international conferences, teaching about cloud data services and how to use them in the best possible manner. Also, I am working on different small community and open-source projects.
 
 ## :compass: Find me on the web
 
