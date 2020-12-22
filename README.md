@@ -18,10 +18,6 @@ If you have a question, or you just want to contact me, you can find and follow 
 [<img alt="Link to the LinkedIn profile of Andre" src="https://img.shields.io/static/v1?label=LinkedIn&message=Follow%20me&labelColor=0077B5&logoColor=ffffff&style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/aessing/)
 [<img alt="Link to the Twitter profile of Andre" src="https://img.shields.io/static/v1?label=Twitter&message=Follow%20me&labelColor=1DA1F2&logoColor=ffffff&style=for-the-badge&logo=twitter" />](https://twitter.com/aessing)<br />
 
-## :bar_chart: Some Stats
-
-[![](https://github-readme-stats.andre-essing.de/api?username=aessing&count_private=true&show_icons=true&include_all_commits=true&icon_color=56B7E6&title_color=56B7E6&text_color=000000&hide_title=true&hide_border=true)](#bar_chart-some-stats)
-
 ## :man_judge: Disclaimer
 
 THE CONTENT OF MY REPOSITORIES IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE CONTENT OF THIS REPOSITORY OR THE USE OR OTHER DEALINGS BY CONTENT OF THIS REPOSITORY.
