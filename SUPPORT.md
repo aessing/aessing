@@ -10,10 +10,6 @@ For more information, or any additional questions or comments, please contact us
 
 In our [Contributor's Guide](CONTRIBUTING.md) you can find some guidance for how to report issues, propose new features, and submit contributions via Pull Requests. Please read it, before you start working.
 
-## :scroll: License
-
-You can find the license information for this repository in its [license](LICENSE.md) file.
-
 ## :detective: Security Policy
 
 We take the security of our software and services serious, which includes all of our repositories. 
