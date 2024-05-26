@@ -8,7 +8,7 @@ Data- & Cloud Native, [Azure](https://azure.microsoft.com/) & [Azure Cosmos DB](
 
 In my role as Technical Specialist, I advise customers in topics all around the Microsoft Data Platform.
 
-Since version 7.0 I am gathering experience with the SQL Server product family, where I had a focus on infrastructure topics, mission-critical systems and security. Today I concentrate on working with data in the cloud, like Modern Data Warehouse architectures and Azure Synapse Analytics, Artificial Intelligence and new scalable database systems like Azure Cosmos DB.
+Since version 7.0 I am gathering experience with the SQL Server product family, where I had a focus on infrastructure topics, mission-critical systems and security. Today I concentrate on working with data in the cloud, like Modern Data Warehouse architectures and Microsoft Fabric, Artificial Intelligence and new scalable database systems like Azure Cosmos DB.
 
 In my spare time I am speaking at user groups and at international conferences, teaching about cloud data services and how to use them in the best possible manner. Also, I am working on different small community and open-source projects.
 
