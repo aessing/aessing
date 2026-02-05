@@ -22,7 +22,7 @@ If you have a question, or you just want to contact me, you can find and follow 
 
 [<img alt="Link to the GitHub profile of Andre" src="https://img.shields.io/static/v1?label=GitHub&message=Follow%20me&labelColor=181717&logoColor=ffffff&style=for-the-badge&logo=GitHub" />](https://github.com/aessing) 
 [<img alt="Link to the LinkedIn profile of Andre" src="https://img.shields.io/static/v1?label=LinkedIn&message=Follow%20me&labelColor=0077B5&logoColor=ffffff&style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/aessing/) 
-[<img alt="Link to Andres employer" src="https://img.shields.io/static/v1?label=Databricks&message=Visit%20us&labelColor=FF3621&logoColor=ffffff&style=for-the-badge&logo=databricks" />]([https://www.microsoft.com/](https://www.databricks.com)) 
+[<img alt="Link to Andres employer" src="https://img.shields.io/static/v1?label=Databricks&message=Visit%20us&labelColor=FF3621&logoColor=ffffff&style=for-the-badge&logo=databricks" />](https://www.databricks.com/) 
 
 ## :man_judge: Disclaimer
 
