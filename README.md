@@ -1,16 +1,20 @@
-<img src="https://raw.githubusercontent.com/aessing/aessing/main/images/banner.png" alt="Banner that says Andre Essing - Cloud Solution Architect, alongside a cartoon illustration of Andre">
+<img src="https://raw.githubusercontent.com/aessing/aessing/main/images/banner.png" alt="Banner that says Andre Essing - Solutions Architect, alongside a cartoon illustration of Andre">
 
 # :wave: Hi there, I'm Andre
 
-Data- & Cloud Native, [Azure](https://azure.microsoft.com/) & [Azure Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) Enthusiast, Community Addict and Technical Specialist for Data & AI @ [Microsoft](https://www.microsoft.com/)
+Data- & Cloud Native, Community Addict and Solutions Architect at [Databricks](https://www.databricks.com)
 
 ## :superhero_man: About Me
 
-In my role as Technical Specialist, I advise customers in topics all around the Microsoft Data Platform.
+I help organizations turn data and AI into measurable business outcomes by designing open, cloud-native Lakehouse platforms and defining data strategies that scale with the business, not against it.
 
-Since version 7.0 I am gathering experience with the SQL Server product family, where I had a focus on infrastructure topics, mission-critical systems and security. Today I concentrate on working with data in the cloud, like Modern Data Warehouse architectures and Microsoft Fabric, Artificial Intelligence and new scalable database systems like Azure Cosmos DB.
+With 25+ years in enterprise IT and consulting, and more than 7 years specializing in the aviation industry, I have supported customers through complex transformations where reliability, cost efficiency, and regulatory constraints matter. My work spans modernizing large Teradata and Hadoop environments into Databricks Lakehouse architectures, enabling AI-ready data foundations, and delivering mission-critical analytics solutions for MRO, operations, and decision support. The focus is always on faster time to insight, reduced platform complexity, and sustainable architectures that support long-term growth.
 
-In my spare time I am speaking at user groups and at international conferences, teaching about cloud data services and how to use them in the best possible manner. Also, I am working on different small community and open-source projects.
+Today, I work as a Solutions Architect at Databricks, helping customers design and adopt Azure Databricks and modern Lakehouse architectures. I work closely with business and technical stakeholders to align platform capabilities with concrete outcomes such as operational efficiency, improved forecasting, data-driven decision making, and accelerated innovation. My strength lies in translating business goals into pragmatic technical architectures and guiding organizations from strategy to execution.
+
+Beyond customer engagements, I am an international speaker, community leader, former Microsoft MVP, and Friend of Redgate. I previously led the PASS Munich Data Platform community and organized events such as SQL Saturday and PowerShell Saturday. I enjoy sharing practical experience, building strong professional communities, and helping teams grow their data and analytics maturity.
+
+Let’s connect if you want to discuss Databricks, Lakehouse architectures, Data and AI strategy, or how to turn data platforms into real business value.
 
 ## :compass: Find me on the web
 
@@ -18,7 +22,7 @@ If you have a question, or you just want to contact me, you can find and follow 
 
 [<img alt="Link to the GitHub profile of Andre" src="https://img.shields.io/static/v1?label=GitHub&message=Follow%20me&labelColor=181717&logoColor=ffffff&style=for-the-badge&logo=GitHub" />](https://github.com/aessing) 
 [<img alt="Link to the LinkedIn profile of Andre" src="https://img.shields.io/static/v1?label=LinkedIn&message=Follow%20me&labelColor=0077B5&logoColor=ffffff&style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/aessing/) 
-[<img alt="Link to Andres employer" src="https://img.shields.io/static/v1?label=Microsoft&message=Visit%20us&labelColor=666666&logoColor=ffffff&style=for-the-badge&logo=microsoft" />](https://www.microsoft.com/) 
+[<img alt="Link to Andres employer" src="https://img.shields.io/static/v1?label=Databricks&message=Visit%20us&labelColor=FF3621&logoColor=ffffff&style=for-the-badge&logo=databricks" />]([https://www.microsoft.com/](https://www.databricks.com)) 
 
 ## :man_judge: Disclaimer
 
