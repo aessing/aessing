@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/aessing/aessing/main/images/banner.png" alt="Warm illustrated banner for Andre Essing with a friendly character and Data plus AI tagline">
+<img src="images/banner.png" alt="Warm illustrated banner for Andre Essing with a friendly character and Data plus AI tagline">
 
 # :wave: Hi there, I'm Andre
 
