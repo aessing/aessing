@@ -16,15 +16,6 @@ Beyond customer engagements, I am an international speaker, community leader, fo
 
 Let’s connect if you want to discuss Databricks, Lakehouse architectures, Data and AI strategy, or how to turn data platforms into real business value.
 
-## :sparkles: A few things I bring
-
-| Area | What I enjoy working on |
-| --- | --- |
-| Data + AI | Turning data ideas into useful, measurable outcomes |
-| Cloud-native architecture | Designing pragmatic platforms that teams can actually run |
-| Database systems | Connecting transactional systems, analytical platforms, and modern data foundations |
-| Community | Sharing practical experience and helping data communities grow |
-
 ## :compass: Find me on the web
 
 If you have a question, or you just want to contact me, you can find and follow me on:
