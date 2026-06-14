@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/aessing/aessing/main/images/banner.png" alt="Banner that says Andre Essing - Solutions Architect, alongside a cartoon illustration of Andre">
+<img src="https://raw.githubusercontent.com/aessing/aessing/main/images/banner.png" alt="Warm illustrated banner for Andre Essing with a friendly character and Data plus AI tagline">
 
 # :wave: Hi there, I'm Andre
 
@@ -8,13 +8,22 @@ Data- & Cloud Native, Community Addict and Solutions Architect at [Databricks](h
 
 I help organizations turn data and AI into measurable business outcomes by designing open, cloud-native Lakehouse platforms and defining data strategies that scale with the business, not against it.
 
-With 25+ years in enterprise IT and consulting, and more than 7 years specializing in the aviation industry, I have supported customers through complex transformations where reliability, cost efficiency, and regulatory constraints matter. My work spans modernizing large Teradata and Hadoop environments into Databricks Lakehouse architectures, enabling AI-ready data foundations, and delivering mission-critical analytics solutions for MRO, operations, and decision support. The focus is always on faster time to insight, reduced platform complexity, and sustainable architectures that support long-term growth.
+With 25+ years in enterprise IT and consulting, and more than 7 years specializing in the aviation industry, I have supported customers through complex transformations where reliability, cost efficiency, and regulatory constraints matter. My work spans modernizing large Teradata and Hadoop environments into Databricks Lakehouse architectures, enabling AI-ready data foundations, and delivering mission-critical analytics solutions for MRO, operations, and decision support. I also bring deep database experience from transactional systems through analytical platforms, which helps me connect operational data realities with modern Data and AI foundations, including emerging patterns around Lakebase. The focus is always on faster time to insight, reduced platform complexity, and sustainable architectures that support long-term growth.
 
 Today, I work as a Solutions Architect at Databricks, helping customers design and adopt Azure Databricks and modern Lakehouse architectures. I work closely with business and technical stakeholders to align platform capabilities with concrete outcomes such as operational efficiency, improved forecasting, data-driven decision making, and accelerated innovation. My strength lies in translating business goals into pragmatic technical architectures and guiding organizations from strategy to execution.
 
 Beyond customer engagements, I am an international speaker, community leader, former Microsoft MVP, and Friend of Redgate. I previously led the PASS Munich Data Platform community and organized events such as SQL Saturday and PowerShell Saturday. I enjoy sharing practical experience, building strong professional communities, and helping teams grow their data and analytics maturity.
 
 Let’s connect if you want to discuss Databricks, Lakehouse architectures, Data and AI strategy, or how to turn data platforms into real business value.
+
+## :sparkles: A few things I bring
+
+| Area | What I enjoy working on |
+| --- | --- |
+| Data + AI | Turning data ideas into useful, measurable outcomes |
+| Cloud-native architecture | Designing pragmatic platforms that teams can actually run |
+| Database systems | Connecting transactional systems, analytical platforms, and modern data foundations |
+| Community | Sharing practical experience and helping data communities grow |
 
 ## :compass: Find me on the web
 
