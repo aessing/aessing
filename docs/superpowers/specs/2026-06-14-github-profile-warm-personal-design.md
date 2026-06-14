@@ -54,9 +54,9 @@ Create or update these assets:
   - includes Andre's name, a compact personal tagline, and the Muppet-like character
   - should replace the existing first image
 
-- `images/social-preview.png`
+- `images/social-preview.jpg`
   - repository Social Preview image for manual upload in GitHub repository settings
-  - PNG preferred
+  - JPG, chosen to keep the higher-quality character art under GitHub's file-size limit
   - 1280x640 px target size
   - under 1 MB
   - solid background preferred for cross-platform reliability, even though GitHub supports transparent PNGs
@@ -98,18 +98,7 @@ Add one concise sentence to the existing About section, near the paragraph that 
 
 > I also bring deep database experience from transactional systems through analytical platforms, which helps me connect operational data realities with modern Data + AI foundations, including emerging patterns around Lakebase.
 
-Add a compact highlights block after the About section:
-
-```markdown
-## :sparkles: A few things I bring
-
-| Area | What I enjoy working on |
-| --- | --- |
-| Data + AI | Turning data ideas into useful, measurable outcomes |
-| Cloud-native architecture | Designing pragmatic platforms that teams can actually run |
-| Database systems | Connecting transactional systems, analytical platforms, and modern data foundations |
-| Community | Sharing practical experience and helping data communities grow |
-```
+Do not add a separate highlights block. The existing text should carry the story without repeating the same points in a table.
 
 The exact wording can be tuned during implementation, but the meaning should stay close to this.
 
@@ -128,6 +117,6 @@ Before calling implementation complete:
 
 - verify Markdown renders structurally with the intended image paths
 - verify `images/banner.png` exists and has plausible dimensions
-- verify `images/social-preview.png` exists, is 1280x640 px, and is under 1 MB
+- verify `images/social-preview.jpg` exists, is 1280x640 px, and is under 1 MB
 - verify README keeps the existing text mostly intact
 - verify `git diff` does not include companion files from `.superpowers/`

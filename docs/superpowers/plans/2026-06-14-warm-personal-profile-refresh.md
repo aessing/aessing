@@ -22,7 +22,7 @@
   - new README hero image
   - optimized static PNG
 
-- Create: `images/social-preview.png`
+- Create: `images/social-preview.jpg`
   - 1280x640 px GitHub Social Preview upload asset
   - under 1 MB
 
@@ -63,7 +63,7 @@ Expected: `pillow ok`. If Pillow is missing, use built-in macOS `sips` for inspe
 
 **Files:**
 - Modify: `images/banner.png`
-- Create: `images/social-preview.png`
+- Create: `images/social-preview.jpg`
 - Optional create: `images/andre-character.png`
 
 - [x] **Step 1: Generate or derive the character asset**
@@ -78,7 +78,7 @@ images/andre-character.png
 
 - [x] **Step 2: Compose `images/banner.png`**
 
-Create a 1280x640 PNG with:
+Create a 1280x640 JPG with:
 
 - warm personal color palette
 - character as the focal point
@@ -87,7 +87,7 @@ Create a 1280x640 PNG with:
 - no Databricks-led visual framing
 - no Aviation/Lakehouse dominance
 
-- [x] **Step 3: Compose `images/social-preview.png`**
+- [x] **Step 3: Compose `images/social-preview.jpg`**
 
 Create a 1280x640 PNG with:
 
@@ -102,11 +102,11 @@ Run:
 
 ```bash
 sips -g pixelWidth -g pixelHeight images/banner.png
-sips -g pixelWidth -g pixelHeight images/social-preview.png
-wc -c images/social-preview.png
+sips -g pixelWidth -g pixelHeight images/social-preview.jpg
+wc -c images/social-preview.jpg
 ```
 
-Expected: both images are 1280x640 px, `images/social-preview.png` is below 1,048,576 bytes.
+Expected: both images are 1280x640 px, `images/social-preview.jpg` is below 1,048,576 bytes.
 
 ## Task 3: Update README
 
@@ -129,27 +129,16 @@ Insert this sentence into the existing About text near the enterprise IT paragra
 I also bring deep database experience from transactional systems through analytical platforms, which helps me connect operational data realities with modern Data and AI foundations, including emerging patterns around Lakebase.
 ```
 
-- [x] **Step 3: Add compact highlights after the About text**
+- [x] **Step 3: Keep the About text concise**
 
-Add this section before `## :compass: Find me on the web`:
-
-```markdown
-## :sparkles: A few things I bring
-
-| Area | What I enjoy working on |
-| --- | --- |
-| Data + AI | Turning data ideas into useful, measurable outcomes |
-| Cloud-native architecture | Designing pragmatic platforms that teams can actually run |
-| Database systems | Connecting transactional systems, analytical platforms, and modern data foundations |
-| Community | Sharing practical experience and helping data communities grow |
-```
+Do not add a separate highlights block. The existing text should carry the story without repeating the same points in a table.
 
 ## Task 4: Verify And Commit
 
 **Files:**
 - Verify: `README.md`
 - Verify: `images/banner.png`
-- Verify: `images/social-preview.png`
+- Verify: `images/social-preview.jpg`
 
 - [x] **Step 1: Inspect rendered Markdown structure**
 
@@ -166,7 +155,7 @@ Expected: README keeps the existing text mostly intact, contains the new sentenc
 Run:
 
 ```bash
-git diff -- README.md images/banner.png images/social-preview.png docs/superpowers/plans/2026-06-14-warm-personal-profile-refresh.md
+git diff -- README.md images/banner.png images/social-preview.jpg docs/superpowers/plans/2026-06-14-warm-personal-profile-refresh.md
 git status --short
 ```
 
@@ -177,7 +166,7 @@ Expected: product diff includes README, image assets, and this plan. `.superpowe
 Run:
 
 ```bash
-git add README.md images/banner.png images/social-preview.png docs/superpowers/plans/2026-06-14-warm-personal-profile-refresh.md
+git add README.md images/banner.png images/social-preview.jpg docs/superpowers/plans/2026-06-14-warm-personal-profile-refresh.md
 git add images/andre-character.png
 git commit -m "Refresh profile with warm personal visuals"
 ```
