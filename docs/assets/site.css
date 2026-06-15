@@ -108,7 +108,9 @@ p {
   position: relative;
   height: 100svh;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(320px, 44vw);
+  grid-template-columns: minmax(0, 640px) minmax(300px, 460px);
+  column-gap: clamp(1.25rem, 3vw, 3rem);
+  justify-content: center;
   align-items: end;
   overflow: hidden;
   padding: 8.4rem var(--pad) 0;
@@ -289,8 +291,8 @@ h1 {
   z-index: 2;
   align-self: end;
   justify-self: end;
-  width: min(44vw, 540px);
-  min-width: 320px;
+  width: 100%;
+  min-width: 300px;
   pointer-events: none;
 }
 
@@ -344,6 +346,7 @@ h1 {
 @media (max-width: 980px) {
   .hero {
     grid-template-columns: 1fr;
+    column-gap: 0;
     height: 100svh;
     padding-top: 7rem;
   }
