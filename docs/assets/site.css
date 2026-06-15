@@ -225,13 +225,22 @@ p {
 }
 
 h1 {
-  max-width: 9.6ch;
-  margin-bottom: 1.35rem;
+  max-width: 12.4ch;
+  margin-bottom: 2.15rem;
   color: var(--ink);
-  font-size: clamp(4.25rem, 11.4vw, 9.2rem);
+  font-size: clamp(3.7rem, 8.5vw, 7.2rem);
   font-weight: 950;
-  line-height: .82;
+  line-height: .88;
   letter-spacing: 0;
+}
+
+.hero__tags {
+  max-width: 100%;
+  margin-bottom: 1.55rem;
+  color: var(--cyan);
+  font-size: clamp(1rem, 1.38vw, 1.24rem);
+  font-weight: 900;
+  line-height: 1.2;
 }
 
 .hero__copy {
@@ -376,8 +385,14 @@ h1 {
   }
 
   h1 {
-    max-width: 10ch;
-    font-size: clamp(3.15rem, 15vw, 4.4rem);
+    max-width: 11.5ch;
+    margin-bottom: 1.45rem;
+    font-size: clamp(2.95rem, 12.5vw, 4.1rem);
+  }
+
+  .hero__tags {
+    font-size: .94rem;
+    margin-bottom: 1.15rem;
   }
 
   .hero__copy {
