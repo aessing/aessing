@@ -332,7 +332,7 @@ Expected:
 Run:
 
 ```bash
-rg -n "Azure Databricks|Mission-Critical|mission-critical|images/|TODO|TBD" docs/index.html docs/assets/site.css docs/assets/site.js
+rg -n "Azure Databricks|Mission-Critical|mission-critical|TODO|TBD|(src|href|content)=\"images/" docs/index.html docs/assets/site.css docs/assets/site.js
 rg -n "assets/images/social-preview.jpg|assets/images/andre-character.png" docs/index.html
 ```
 
