@@ -48,7 +48,14 @@ if ("IntersectionObserver" in window && navLinks.length > 0) {
         }
 
         navLinks.forEach((link) => {
-          link.classList.toggle("is-active", link.getAttribute("href") === `#${entry.target.id}`);
+          const isActive = link.getAttribute("href") === `#${entry.target.id}`;
+
+          link.classList.toggle("is-active", isActive);
+          if (isActive) {
+            link.setAttribute("aria-current", "true");
+          } else {
+            link.removeAttribute("aria-current");
+          }
         });
       });
     },
