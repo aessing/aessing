@@ -425,6 +425,122 @@ h1 {
 
 }
 
+@media (orientation: landscape) and (max-height: 820px) and (max-width: 1200px) {
+  .hero {
+    grid-template-columns: minmax(0, 1fr) minmax(150px, 32vw);
+    column-gap: clamp(1rem, 3vw, 2rem);
+    align-items: end;
+    height: 100svh;
+    padding-top: clamp(1rem, 4vh, 2rem);
+    padding-right: clamp(1rem, 3vw, 2.5rem);
+    padding-left: clamp(1rem, 3vw, 2.5rem);
+    padding-bottom: 0;
+  }
+
+  .hero__content {
+    align-self: center;
+    max-width: min(62vw, 650px);
+    padding-bottom: clamp(.8rem, 3vh, 1.6rem);
+  }
+
+  .intro {
+    margin-bottom: clamp(.45rem, 1.6vh, .8rem);
+    font-size: clamp(.78rem, 1.7vw, .94rem);
+  }
+
+  h1 {
+    max-width: 12.6ch;
+    margin-bottom: clamp(.75rem, 2.3vh, 1.15rem);
+    font-size: clamp(2.55rem, 7vw, 5rem);
+    line-height: .88;
+  }
+
+  .hero__tags {
+    margin-bottom: clamp(.55rem, 1.8vh, .95rem);
+    font-size: clamp(.82rem, 1.9vw, 1.05rem);
+    line-height: 1.15;
+  }
+
+  .hero__copy {
+    max-width: 46ch;
+    font-size: clamp(.88rem, 2vw, 1.12rem);
+    line-height: 1.35;
+  }
+
+  .hero__links {
+    display: flex;
+    align-items: center;
+    gap: .65rem;
+    margin-top: clamp(.75rem, 2.4vh, 1.2rem);
+  }
+
+  .hero__links .button--primary {
+    grid-column: auto;
+  }
+
+  .button {
+    min-height: 2.45rem;
+    padding: .62rem .98rem;
+    font-size: .9rem;
+  }
+
+  .hero__visual {
+    position: relative;
+    right: auto;
+    bottom: auto;
+    align-self: end;
+    justify-self: end;
+    width: min(32vw, 360px);
+    min-width: 150px;
+    margin-top: 0;
+  }
+}
+
+@media (orientation: landscape) and (max-height: 520px) and (max-width: 900px) {
+  .hero {
+    grid-template-columns: minmax(0, 1fr) minmax(132px, 24vw);
+    column-gap: clamp(.75rem, 2.6vw, 1.4rem);
+    padding-top: .75rem;
+  }
+
+  .hero__content {
+    max-width: 70vw;
+    padding-bottom: .55rem;
+  }
+
+  h1 {
+    max-width: 13.2ch;
+    margin-bottom: .72rem;
+    font-size: clamp(2.25rem, 6.2vw, 3.35rem);
+  }
+
+  .hero__tags {
+    margin-bottom: .55rem;
+    font-size: clamp(.76rem, 1.8vw, .9rem);
+  }
+
+  .hero__copy {
+    max-width: 48ch;
+    font-size: clamp(.82rem, 1.75vw, .92rem);
+    line-height: 1.32;
+  }
+
+  .hero__links {
+    margin-top: .65rem;
+  }
+
+  .button {
+    min-height: 2.25rem;
+    padding: .55rem .86rem;
+    font-size: .84rem;
+  }
+
+  .hero__visual {
+    width: min(24vw, 190px);
+    min-width: 132px;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
