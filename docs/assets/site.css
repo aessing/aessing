@@ -425,7 +425,7 @@ h1 {
 
 }
 
-@media (orientation: landscape) and (max-height: 820px) and (max-width: 1200px) {
+@media (orientation: landscape) and (max-height: 900px) and (max-width: 1400px) {
   .hero {
     grid-template-columns: minmax(0, 1fr) minmax(150px, 32vw);
     column-gap: clamp(1rem, 3vw, 2rem);
